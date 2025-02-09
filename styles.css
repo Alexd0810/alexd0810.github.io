@@ -184,7 +184,7 @@ section h2::after {
 }
 
 #about-section .social-links i {
-    color: #588061;
+    color: #a453ec;
     font-weight: 500;
 }
 
@@ -340,7 +340,7 @@ section h2::after {
 
 #skills-section i {
     font-size: 3rem;
-    color: #588061;
+    color: #a453ec;
     transition: transform 0.3s ease, color 0.3s ease;
     margin: 1rem 0; /* Add margin to ensure proper spacing */
 }
